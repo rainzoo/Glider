@@ -14,7 +14,7 @@ wp_enqueue_script( 'jquery-ui-effects-slide', 'http://jquery-ui.googlecode.com/s
 
 ?>
 
-<link href='http://fonts.googleapis.com/css?family=Alegreya:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,700' rel='stylesheet' type='text/css'>
 
 
 
